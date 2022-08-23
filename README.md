@@ -10,10 +10,10 @@
     Some other buttons like 'equals' and 'dot' buttons also are presented in this calculator. 
 </p> 
 
-<a href="https://lincoln-araujo.github.io/calc-brainnest/" target="_blank"><img src="./images/javascript-project2.png"/></a>
+<a href="https://lincoln-araujo.github.io/brainnest-calculator/" target="_blank"><img src="./images/javascript-project2.png"/></a>
 
 ### Try this project clicking link below:
-link: https://lincoln-araujo.github.io/calc-brainnest/
+link: https://lincoln-araujo.github.io/brainnest-calculator/
 
 <p style="font-height:12px">
     <strong>WHAT WAS THE HARDEST THING TO DO?</strong></br> I had no idea how hard could be programming numbers more than one decimal place. I needed some help from the internet community to make this.
